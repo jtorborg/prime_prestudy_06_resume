@@ -1,0 +1,85 @@
+
+
+.main {
+  width: 850px;
+  margin: 10px auto 0 auto;
+  font-size: 18px;
+  text-align: left;
+}
+
+body {
+  background-color: #FFF5EE;
+  font-family:  Arial, sans-serif;
+}
+
+p {
+  padding: 1px; 
+  margin: 1px 1px 1px 0px;
+  font-family: Arial, sans-serif;
+}
+
+
+li {  
+  width: 600px;
+  padding: 1px; 
+  margin: 0 0 0 30px;
+  font-size: 18px;
+}
+
+hr {
+  width: 800px;
+}
+
+button {
+  text-align: center;
+  margin: auto;
+  display: block;
+  background-color: #ADD8E6;
+  border: 1px solid #ADD8E6;
+  border-radius: 15px;
+  width: 350px;
+  padding: 8px 8px 8px 20px;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.roundedcorners {
+  background-color: #ADD8E6;
+  border: 1px solid #ADD8E6;
+  border-radius: 15px;
+  width: 350px;
+  padding: 8px 8px 8px 20px;
+  font-size: 28px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.header {
+  background-color: #ADD8E6;
+  border: 5px solid #ADD8E6;
+  border-radius: 15px;
+  width: 825px;
+  padding: 8px;
+  margin: 10px auto 0 auto;
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+  
+}
+
+h1 {
+  margin: 0 0 0 50px; 
+  font-size: 22px;
+}
+
+
+h2 {  
+  margin: 1px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.degree {
+  margin: 0 0 0 50px; 
+}
+
